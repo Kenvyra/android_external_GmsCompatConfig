@@ -1,0 +1,5 @@
+{
+    "name": "graphene",
+    "fetch": "https://github.com/GrapheneOS/platform_external_GmsCompatConfig",
+    "revision": "refs/heads/13"
+}
